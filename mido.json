@@ -5,9 +5,14 @@
       "filename": "dotOS-P-v3.0-mido-OFFICIAL-20180926.zip", 
       "id": "3013905fd6e49e88986b453bd5ba8e9b", 
       "romtype": "OFFICIAL",
-      "size": 337975048, 
+      "size": 568626361, 
       "url": "https://master.dl.sourceforge.net/project/dotos-downloads/mido/dotOS-P-v3.0-mido-OFFICIAL-20180926.zip", 
-      "version": "v3.0"
+      "version": "v3.0",
+	  "changelog_system": "Test",
+      "changelog_misc" : "Testuk",
+      "changelog_device" : "Testulin",
+      "changelog_settings" : "Testus",
+      "changelog_securitypatch" : "Big Tasty"
     }
   ]
 }
