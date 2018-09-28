@@ -1,18 +1,18 @@
 {
   "response": [
      {
-      "datetime": 1537983274, 
-      "filename": "dotOS-P-v3.0-mido-OFFICIAL-20180926.zip", 
-      "id": "3013905fd6e49e88986b453bd5ba8e9b", 
+      "datetime": 1538146624, 
+      "filename": "dotOS-P-v3.0-mido-OFFICIAL-20180928.zip", 
+      "id": "24fc40af0dfa4df261fd598105d0e3a3", 
       "romtype": "OFFICIAL",
-      "size": 568626361, 
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/mido/dotOS-P-v3.0-mido-OFFICIAL-20180926.zip", 
+      "size": 568976045, 
+      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/mido/dotOS-P-v3.0-mido-OFFICIAL-20180928.zip", 
       "version": "v3.0",
-	  "changelog_system": "Test",
-      "changelog_misc" : "Testuk",
-      "changelog_device" : "Testulin",
-      "changelog_settings" : "Testus",
-      "changelog_securitypatch" : "Big Tasty"
+	  "changelog_system": "Android 9.0 Release",
+      "changelog_misc" : "Brand New design",
+      "changelog_device" : "Fixes",
+      "changelog_settings" : "New Fresh UI",
+      "changelog_securitypatch" : "Sept 05"
     }
   ]
 }
